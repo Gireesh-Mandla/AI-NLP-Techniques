@@ -28,4 +28,11 @@ This repository requires a dataset to be set up for proper functioning. Follow t
 ## Repository Structure Overview
 
 The repository should look as follows after setup:
+project-root/ ├── dataset/ │ ├── iris/ │ └── faces/ ├── README.md └── <other project files>
+
+## Notes
+- Ensure that `dataset` remains in the root directory (main branch).
+- If you encounter any issues with locating the folders or files, double-check the structure against the one shown above.
+
+Thank you for setting up the dataset correctly!
 
